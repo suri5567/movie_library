@@ -1,0 +1,5 @@
+1) folder structure 
+2) routing 
+3) json.server setup
+4) redux store setup
+4) redux slices setup
