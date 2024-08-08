@@ -1,5 +1,5 @@
 
-Here’s a concise README description for your Movie Library app:
+Here’s a concise README description for Movie Library app:
 
 Movie Library App
 Description
