@@ -16,29 +16,3 @@ React
 Redux (with Redux Toolkit)
 React Router
 Fetch API
-Setup
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/movie-library-app.git
-Navigate to the project directory:
-bash
-Copy code
-cd movie-library-app
-Install dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-Configuration
-The API URL is set in the .env file:
-makefile
-Copy code
-REACT_APP_JSON_SERVER_PORT=8080
-Usage
-Home Page: View and filter movies.
-Movie Details: Click on a movie card to view details.
-License
